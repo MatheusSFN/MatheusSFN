@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 https://readme.so/pt/editor -> Site para criação do readme.md low code
 
