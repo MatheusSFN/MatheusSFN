@@ -69,8 +69,8 @@ Após esse start, procurando novos desafios, ingressei na Bayer como estagiário
 </a>
 
 ## Projects
-<a href="https://github.com/MatheusSFN/projeto-sistema-crud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusSFN&repo=projeto-sistema-crud" />
+<a href="https://github.com/MatheusSFN/spotify_e_spotipy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusSFN&repo=spotify_e_spotipy" />
 </a>
 
 
