@@ -60,7 +60,7 @@ Após esse start, procurando novos desafios, ingressei na Bayer como estagiário
 [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](DISABLED)
 <br><br>
 
-## Stats
+## Status
 
   <img alt="my stats" width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=MatheusSFN&show_icons=true" />
   <img alt="top langs" width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusSFN&layout=compact&langs_count=8&card_width=320" />
@@ -70,7 +70,7 @@ Após esse start, procurando novos desafios, ingressei na Bayer como estagiário
 <br></br>
 <br></br>
 
-## Projects
+## Projetos
 <a href="https://github.com/MatheusSFN/spotify_e_spotipy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusSFN&repo=spotify_e_spotipy" />
 </a>
