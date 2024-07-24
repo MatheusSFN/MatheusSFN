@@ -63,9 +63,10 @@ Após esse start, procurando novos desafios, ingressei na Bayer como estagiário
 ## Stats
 <a>
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusSFN" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusSFN&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a>
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusSFN&layout=compact&langs_count=8&card_width=320" />
+  
 </a>
 
 ## Projects
