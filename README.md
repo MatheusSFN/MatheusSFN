@@ -72,7 +72,7 @@ Após esse start, procurando novos desafios, ingressei na Bayer como estagiário
 
 ## Projetos
 <a href="https://github.com/MatheusSFN/spotify_e_spotipy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atheusSFN&repo=spotify_e_spotipy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusSFN&repo=spotify_e_spotipy" />
 </a>
 
 
